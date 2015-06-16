@@ -1,0 +1,88 @@
+body{color:#000; font-size:14px}
+header{background-color:#08bbd1}
+header a{color:#fff}
+.navbar{margin-bottom:0px}
+.navbar-toggle, .navbar-toggle .icon-bar{border: 1px solid #fff}
+
+#section-logo{background-color:#353a3b; height:85px}
+#logo{padding-top:14px}
+#section-slideshow, #section-points{background-color:#353a3b}
+#section-slideshow img{width:100%;}
+
+
+#section-points .col-md-2{width:20%; background-color:#08bbd1;border-right: 1px solid #fff; height:260px; padding:0; color:#fff; font-size:20px}
+#section-points .col-md-2 .num{background-color:#14cfe6; color:#fff; padding:8px 15px; max-width:70px; font-size:32px}
+#section-points .glyphicon-music {font-size:52px; margin-top:10px}
+
+#section-news{background-color:#fff}
+#section-news h2 {padding:10px 0; font-size:28px; color:#534f4f}
+#section-news .col-md-3 .input-group{padding-bottom:15px}
+#section-news .input-group input{background-color:#08bbd1; color:#fff}
+#section-news .input-group .input-group-btn .btn-default{background-color:#48e2f5; color:#fff}
+#section-news p{color:#828181}
+#section-news .thumbnail{padding:0; border:0; color:#828181}
+#section-news .thumbnail .caption{padding:0}
+#section-news .thumbnail img{width:100%}
+#section-news .thumbnail a{font-size:20px;}
+#section-news .about-title{background-color:#08bbd1; color:#fff; padding:10px; font-size:18px; margin-bottom:15px}
+
+#section-wording{background-color:#e6fbfd; color:#615e5e;  border-top:3px solid #f6f6f6; border-bottom:3px solid #f6f6f6}
+#section-wording h3{font-size:26px; color:#615e5e}
+#section-wording h3 .blue{color:#08bbd1}
+#section-wording p{font-size:18px}
+
+
+#section-work{background-color:#fff;}
+#section-work h2 {padding:10px 0; font-size:28px; color:#534f4f}
+#section-work .carousel-control{background-image:none; top:45px}
+#section-work .thumbnail{padding:0; border:0; color:#828181; background-color:#ebebeb}
+#section-work .thumbnail .caption{padding:15px}
+#section-work .thumbnail img{width:100%}
+#section-work .thumbnail a{font-size:20px;}
+
+#section-testimonial{background-color:#fff; padding-bottom:25px}
+#section-testimonial h2 {padding:10px 0; font-size:28px; color:#534f4f}
+#section-testimonial .carousel-control{background-image:none; top:45px}
+#section-testimonial h4{margin-bottom:0px; font-size:17px}
+#section-testimonial h5{margin-top:3px; font-size:14px}
+
+#section-testimonial .testi-text {
+	background-color:#08bbd1; color:#fff; border-radius:5px; padding:15px; font-size:18px;
+}
+#section-testimonial .testi-text:after, #section-testimonial .testi-text:before {
+	top: 48%;
+	left: 16%;
+	border: solid transparent;
+	content: " ";
+	height: 0;
+	width: 0;
+	position: absolute;
+	pointer-events: none;
+}
+
+#section-testimonial .testi-text:after {
+	border-color: rgba(222, 31, 31, 0);
+	border-top-color: #08bbd1;
+	border-width: 13px;
+	margin-left: -13px;
+}
+#section-testimonial .testi-text:before {
+	border-color: rgba(194, 225, 245, 0);
+	border-top-color: #08bbd1;
+	border-width: 18px;
+	margin-left: -18px;
+}
+
+
+#section-video{background-color:#ebebeb;}
+#section-video h2 {padding:10px 0; font-size:28px; color:#534f4f}
+#section-video .container{padding:15px 0}
+#section-video h3{font-size:26px; color:#615e5e}
+#section-video p{font-size:18px}
+#section-video #icon-video{color:#08bbd1; font-size:40px}
+
+#section-footer{background-color:#353a3b; min-height:33px; clear:both; color:#fff; padding-bottom:25px;}
+#section-footer p{color:#617676}
+#section-footer i.fa{font-size:24px; margin-right:5px}
+#section-copyright{background-color:#08bbd1; color:#fff; padding:15px 0}
+

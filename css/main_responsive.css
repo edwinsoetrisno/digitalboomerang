@@ -1,0 +1,5 @@
+@media only screen and (max-width: 991px) {
+    #section-points .col-md-2{width:95%; margin:0 auto;}
+    #section-testimonial .testi-text:after, #section-testimonial .testi-text:before {display:none}
+}
+
